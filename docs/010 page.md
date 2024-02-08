@@ -14,7 +14,7 @@ Timely and constructive feedback is essential for guiding remote team members' p
 
 ### **Establishing Performance Metrics and Targets**
 
-Performance metrics and targets provide objective benchmarks for evaluating remote team performance and progress towards organizational goals. Define key metrics aligned with business objectives, such as productivity, quality, efficiency, and customer satisfaction. Set realistic targets and milestones to track performance over time, adjusting goals as needed based on changing circumstances.
+Performance metrics and targets provide objective benchmarks for evaluating remote team performance and progress towards organizational goals. Define key metrics aligned with business objectives, such as productivity, quality, efficiency, and customer satisfaction. Set realistic targets and milestones to track performance over time, adjusting goals as needed based on changing circumstances..
 
 ### **Providing Timely and Constructive Feedback**
 
