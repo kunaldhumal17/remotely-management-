@@ -1,7 +1,6 @@
-007 
+007
 
-
-# ***Chapter 3 : . Setting Clear Expectations***
+# ***Chapter 3 : Introduction to Remote Work***
 
 
 ### **Encouraging Peer Mentoring and Coaching**
@@ -18,7 +17,7 @@ Virtual brainstorming sessions are valuable for generating creative ideas and so
 
 ### **Promoting Psychological Safety**
 
-Psychological safety is crucial for fostering collaboration and innovation within remote teams. Create a safe and supportive environment where team members feel comfortable expressing their opinions, sharing feedback, and taking risks without fear of judgment or reprisal. Encourage open dialogue, empathy, and respect to build trust and psychological safety within the team.
+Psychological safety is crucial for fostering collaboration and innovation within remote teams. Create a safe and supportive environment where team members feel comfortable expressing their opinions, sharing feedback, and taking risks without fear of judgment or reprisal. Encourage open dialogue, empathy, and respect to build trust and psychological safety within the team
 
 ### **Encouraging Cross-Team Collaboration**
 

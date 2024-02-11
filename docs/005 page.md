@@ -1,7 +1,7 @@
 005
 
+# ***Chapter 2 : Building a Remote Team***
 
-# ***Chapter 3 : . Setting Clear Expectations***
 
 
 ### **Establishing Clear Roles and Responsibilities**

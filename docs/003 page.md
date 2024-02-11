@@ -1,7 +1,7 @@
 003
 
-
 # ***Chapter 2 : Building a Remote Team***
+
 
 In Chapter 1, we explored the landscape of remote work and its implications for the future of work. Now, let's delve into the process of building a remote team, from recruitment and onboarding to fostering a sense of belonging and cohesion among team members.
 
