@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 054
 
 
@@ -20,3 +21,6 @@ Encouraging allyship and advocacy empowers remote team members to actively suppo
 ### **Promoting Accessibility and Inclusive Design**
 
 Promoting accessibility and inclusive design ensures that remote team members of all abilities can fully participate and contribute to team activities and initiatives. Provide accessible tools, technologies, and communication channels that accommodate diverse needs and preferences, such as screen readers, captioning, and alternative formats. Incorporate principles of inclusive design into team processes and practices to ensure that remote team members with disabilities are not excluded or disadvantaged.
+=======
+
+>>>>>>> 7aa67d8ff94b040a92e4ff9546e411d4334ce504

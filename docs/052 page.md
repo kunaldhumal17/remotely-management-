@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 052
 
 # ***Chapter 15 : Fostering Inclusion and Diversity in Remote Teams***
@@ -15,4 +16,6 @@ Encouraging inclusive communication and collaboration ensures that all remote te
 ### **Creating Affinity Groups and Employee Resource Groups**
 
 Creating affinity groups and employee resource groups provides opportunities for remote team members with shared identities or interests to connect, support each other, and advocate for inclusion and diversity within the organization. Establish affinity groups based on common identities or experiences, such as gender, ethnicity, sexual orientation, or disability, where remote team members can share experiences, discuss relevant issues, and organize events or initiatives to promote inclusion and diversity. Encourage participation and leadership from remote team members across all affinity groups to ensure representation and diversity of perspectives.
+=======
+>>>>>>> 7aa67d8ff94b040a92e4ff9546e411d4334ce504
 
