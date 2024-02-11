@@ -1,6 +1,6 @@
 068
 
-<<<<<<< HEAD
+
 
 
 # ***Chapter 17 : Building Trust and Fostering Team Cohesion in Remote Teams***

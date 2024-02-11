@@ -1,6 +1,6 @@
 098
 
-<<<<<<< HEAD
+
 
 
 # ***Chapter 23 : Fostering Creativity and Innovation in Remote Teams***

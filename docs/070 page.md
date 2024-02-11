@@ -1,6 +1,5 @@
 070
 
-<<<<<<< HEAD
 
 # ***Chapter 18 : Promoting Innovation and Creativity in Remote Teams***
 

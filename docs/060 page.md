@@ -1,6 +1,6 @@
 060
 
-<<<<<<< HEAD
+
 
 
 # ***Chapter 16 : Promoting Equity and Fairness in Remote Teams***

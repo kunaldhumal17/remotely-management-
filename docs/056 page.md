@@ -1,7 +1,5 @@
 056
 
-<<<<<<< HEAD
-
 
 # ***Chapter 15 : Fostering Inclusion and Diversity in Remote Teams***
 

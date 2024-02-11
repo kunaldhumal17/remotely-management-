@@ -1,7 +1,5 @@
 078
 
-<<<<<<< HEAD
-
 
 # ***Chapter 19 : Fostering Resilience and Adaptability in Remote Teams***
 
